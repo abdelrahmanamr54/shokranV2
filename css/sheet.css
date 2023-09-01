@@ -73,7 +73,7 @@
 .one  .choose li button i {
     margin-left: 2px;
 }
-@media (max-width:600px) {
+@media (max-width:720px) {
     .one{
         width: 100%;
         position: fixed;
@@ -200,7 +200,7 @@
     width: 450px;
     height: 450px;
 }
-@media (max-width:600px){
+@media (max-width:720px){
     .second{
         width: 90%;
         margin: auto;
@@ -295,7 +295,7 @@
 
 
     }
-    @media (max-width:600px){
+    @media (max-width:720px){
         .three{
             background-color: rgb(243,245,250);
         }
@@ -313,7 +313,7 @@
                 width: 33%;
                 text-align: center;
                 align-items: center;
-                margin: 0px 109px;
+                margin: 0px 119px;
             }
             .three img{
                 text-align: center;
@@ -403,7 +403,7 @@ font-weight: bold;
         color: rgb(255,165,0);
         margin-right: 2.5px;
     }
-    @media (max-width:600px){
+    @media (max-width:720px){
         .four{
             padding: 18px 0px;
             text-align: center;
@@ -554,7 +554,7 @@ font-weight: bold;
         color: rgb(255,165,0);
 /* font-weight: bold; */
 }
-@media (max-width:600px){
+@media (max-width:720px){
     .five{
         margin-top: 70px;
            
@@ -1031,7 +1031,7 @@ font-weight: bold;
         margin-bottom: 20px;
         text-align: center;
     }
-    @media (max-width:600px){
+    @media (max-width:720px){
         .six{
             padding-top: 80px;
             background-color: rgb(243,245,250);;
@@ -1546,7 +1546,7 @@ border-radius: 20px;
 margin-top: 17px;
 margin-left: 127px;
       } 
-      @media (max-width:600px)  {
+      @media (max-width:720px)  {
         .seven{
             padding: 10px 0px;
             position: relative;
@@ -1687,7 +1687,7 @@ margin: auto;
      height: 36px; */
      padding: 8px ;
       }
-      @media (max-width:600px){
+      @media (max-width:720px){
         .eight {
             padding: 20px 0px;
             margin-left: 12px;
@@ -1762,7 +1762,7 @@ margin: auto;
     font-size: 14px;
     margin-top: 12px;
 }
-@media (max-width:600px) {
+@media (max-width:720px) {
     .footer{
         
         padding: 20px 0px;
